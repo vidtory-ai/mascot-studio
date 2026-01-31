@@ -1,0 +1,48 @@
+{
+  "generated": "2026-01-30T01:02:01.567Z",
+  "model": "gemini-2.0-flash-exp-image-generation",
+  "assets": [
+    {
+      "id": "char_01",
+      "name": "Cyberpunk Protagonist",
+      "type": "CHARACTER",
+      "thumbnailUrl": "/assets/samples/char_01.png"
+    },
+    {
+      "id": "char_02",
+      "name": "Ancient Wizard",
+      "type": "CHARACTER",
+      "thumbnailUrl": "/assets/samples/char_02.png"
+    },
+    {
+      "id": "loc_01",
+      "name": "Neo Tokyo Street",
+      "type": "LOCATION",
+      "thumbnailUrl": "/assets/samples/loc_01.png"
+    },
+    {
+      "id": "loc_02",
+      "name": "Floating Castle",
+      "type": "LOCATION",
+      "thumbnailUrl": "/assets/samples/loc_02.png"
+    },
+    {
+      "id": "loc_03",
+      "name": "Desert Outpost",
+      "type": "LOCATION",
+      "thumbnailUrl": "/assets/samples/loc_03.png"
+    },
+    {
+      "id": "prop_01",
+      "name": "Plasma Rifle",
+      "type": "PROP",
+      "thumbnailUrl": "/assets/samples/prop_01.png"
+    },
+    {
+      "id": "prop_02",
+      "name": "Mech Suit MK-II",
+      "type": "PROP",
+      "thumbnailUrl": "/assets/samples/prop_02.png"
+    }
+  ]
+}

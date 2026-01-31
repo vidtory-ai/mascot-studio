@@ -1,0 +1,5 @@
+{
+  "name": "Heaven Studio - Kilo and Bruno",
+  "description": "An application to generate illustrative storyboard scenes from song lyrics. It analyzes each line to create detailed image prompts, perfect for music video production, specifying characters, actions, settings, and camera angles based on a desired style.",
+  "requestFramePermissions": []
+}

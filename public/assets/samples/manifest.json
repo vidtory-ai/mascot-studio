@@ -1,0 +1,85 @@
+{
+  "generated": "2026-01-30T01:13:07.694Z",
+  "theme": "Business Mascot Storytelling",
+  "model": "gemini-2.0-flash-exp-image-generation",
+  "assets": [
+    {
+      "id": "mascot_01",
+      "name": "Happy Brand Mascot",
+      "type": "CHARACTER",
+      "thumbnailUrl": "/assets/samples/mascot_01.png"
+    },
+    {
+      "id": "mascot_02",
+      "name": "Tech Buddy Robot",
+      "type": "CHARACTER",
+      "thumbnailUrl": "/assets/samples/mascot_02.png"
+    },
+    {
+      "id": "scene_01",
+      "name": "Modern Office Lobby",
+      "type": "LOCATION",
+      "thumbnailUrl": "/assets/samples/scene_01.png"
+    },
+    {
+      "id": "scene_02",
+      "name": "Product Launch Stage",
+      "type": "LOCATION",
+      "thumbnailUrl": "/assets/samples/scene_02.png"
+    },
+    {
+      "id": "scene_03",
+      "name": "Coffee Shop Meeting",
+      "type": "LOCATION",
+      "thumbnailUrl": "/assets/samples/scene_03.png"
+    },
+    {
+      "id": "scene_04",
+      "name": "Social Media Studio",
+      "type": "LOCATION",
+      "thumbnailUrl": "/assets/samples/scene_04.png"
+    },
+    {
+      "id": "scene_05",
+      "name": "E-commerce Warehouse",
+      "type": "LOCATION",
+      "thumbnailUrl": "/assets/samples/scene_05.png"
+    },
+    {
+      "id": "scene_06",
+      "name": "Digital Marketing Dashboard",
+      "type": "LOCATION",
+      "thumbnailUrl": "/assets/samples/scene_06.png"
+    },
+    {
+      "id": "prop_01",
+      "name": "Gift Box Package",
+      "type": "PROP",
+      "thumbnailUrl": "/assets/samples/prop_01.png"
+    },
+    {
+      "id": "prop_02",
+      "name": "Megaphone Announcement",
+      "type": "PROP",
+      "thumbnailUrl": "/assets/samples/prop_02.png"
+    },
+    {
+      "id": "prop_03",
+      "name": "Shopping Cart",
+      "type": "PROP",
+      "thumbnailUrl": "/assets/samples/prop_03.png"
+    },
+    {
+      "id": "prop_04",
+      "name": "Star Rating Badge",
+      "type": "PROP",
+      "thumbnailUrl": "/assets/samples/prop_04.png"
+    },
+    {
+      "id": "prop_05",
+      "name": "Sale Tag Banner",
+      "type": "PROP",
+      "thumbnailUrl": "/assets/samples/prop_05.png"
+    }
+  ]
+}
